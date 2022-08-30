@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/shuvoonline/public_html/
+    - export DEPLOYPATH=/home/shuvoonline/web.soumitra.itlab.solutions/
     - /bin/cp * $DEPLOYPATH
     # - /bin/cp style.css $DEPLOYPATH
